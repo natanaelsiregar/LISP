@@ -1,6 +1,4 @@
-; Nama			: Natanael Jansudin Siregar
-; NIM			: 11S20023
-; Nama File		: JmlFx4_023.lsp
+; Nama File		: JmlFx4.lsp
 ;----------------------------------------------------------------------------------------------------------------------------------
 ; FUNGSI ANTARA
 ; FX3 		: 1 integer > 0 → 1 integer > 0
