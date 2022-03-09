@@ -9,7 +9,7 @@ Function:
     - jarak(P1, P2): mengembalikan sebuah nilai real, merupakan jarak antara titik P1 dan P2.
 ```
 <br ><br >
-* [Tipe bentukan pecahan](/Tipe%20Bentukan/pecahan.lisp)
+* [Tipe bentukan pecahan](/02%20Tipe%20Bentukan/pecahan.lisp)
 1. Konstruktor:
 ```
     makeP(a, b), untuk membentuk pecahan dari dua buah bilangan bulat.
@@ -32,7 +32,7 @@ Function:
     (b) isLtP(P1, P2), untuk membandingkan, apakah P1 lebih kecil dari P2.
 ```
 <br ><br >
-* [Tipe bentukan date](/Tipe%20Bentukan/date.lisp)
+* [Tipe bentukan date](/02%20Tipe%20Bentukan/date.lisp)
 1. Konstruktor: 
 ```
     makeDate(DD,MM,YY), untuk membentuk DATE, dari hari DD, bulan MM, dan tahun YY.
