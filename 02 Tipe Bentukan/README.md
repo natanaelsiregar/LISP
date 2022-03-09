@@ -1,5 +1,5 @@
 ## Tipe Bentukan
-[Tipe bentukan point](/Tipe%20Bentukan/)
+[* Tipe bentukan point](/Tipe%20Bentukan/)
 
 Function:
 ```
