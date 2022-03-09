@@ -8,9 +8,7 @@ Function:
     - translasiSbY(P,N): mengembalikan sebuah titik hasil translasi titik P, searah sumbu Y, sejauh N.
     - jarak(P1, P2): mengembalikan sebuah nilai real, merupakan jarak antara titik P1 dan P2.
 ```
-
-
-
+<br ><br >
 * [Tipe bentukan pecahan](/Tipe%20Bentukan/pecahan.lisp)
 1. Konstruktor:
 ```
@@ -33,9 +31,7 @@ Function:
     (a) isEqP(P1, P2), untuk membandingkan, apakah kedua pecahan sama nilainya.
     (b) isLtP(P1, P2), untuk membandingkan, apakah P1 lebih kecil dari P2.
 ```
-
-
-
+<br ><br >
 * [Tipe bentukan date](/Tipe%20Bentukan/date.lisp)
 1. Konstruktor: 
 ```
@@ -58,7 +54,6 @@ Function:
     (a) isEqD(D1, D2), untuk membandingkan, apakah kedua DATE sama.
     (b) isBefore(D1, D2), mengembalikan nilai TRUE jika D1 adalah sebelum D2.
 ```
-
 | Input (dd mm yy) | Output (dd mm yy) | Keterangan |
 | :---: | :---: | :---: | 
 | 21 4 2006 | 21 4 2006 | penambahan biasa |
