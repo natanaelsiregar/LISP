@@ -1,5 +1,6 @@
-; Nama File		: JmlFx4.lsp
-;----------------------------------------------------------------------------------------------------------------------------------
+;
+; @author natgharz
+;-----------------------------------------------------------------------------------------------------------------------------------
 ; FUNGSI ANTARA
 ; FX3 		: 1 integer > 0 → 1 integer > 0
 ; { FX4 (x) menghitung pangkat empat dari x, bilangan integer, dengan menggunakan fungsi pangkat2 yang telah dibuat sebelumnya }
