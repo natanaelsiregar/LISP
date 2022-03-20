@@ -1,4 +1,4 @@
-; @author natgharz
+; author @natgharz
 ;----------------------------------------------------------------------------------------------------------------------------------
 ; DEFINISI DAN SPESIFIKASI
 ; type elemen : integer
